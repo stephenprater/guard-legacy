@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["me@stephenprater.com"]
   s.homepage    = ""
   s.summary     = %q{use the rb-fsevents-legacy gem for Guard::Darwin}
-  s.description = %q{TODO: compatibility layer for legacy systems with Guard}
+  s.description = %q{compatibility layer for legacy systems with Guard}
 
   s.rubyforge_project = "guard-legacy"
 
